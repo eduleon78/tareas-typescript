@@ -1,4 +1,4 @@
-import * as React from 'react'
+import type * as React from 'react'
 import { TODO_FILTERS } from '../consts'
 import { type FilterValue } from '../types'
 
